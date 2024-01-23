@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UIUXAdapterPractical</string>
+    <string name="HelloWorldString">Hello World!</string>
+
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Swift</item>
+        <item>C#</item>
+        <item>SQL</item>
+        <item>JavaScript</item>
+        <item>Jquery</item>
+        <item>C++</item>
+    </string-array>
+
+    <string-array name="LanguagesDesc">
+        <item>Here we have an absolutely fantastic description of Java</item>
+        <item>Here we have an absolutely fantastic description of Swift</item>
+        <item>Here we have an absolutely fantastic description of C#</item>
+        <item>Here we have an absolutely fantastic description of SQL</item>
+        <item>Here we have an absolutely fantastic description of JavaScript</item>
+        <item>Here we have an absolutely fantastic description of Jquery</item>
+        <item>Here we have an absolutely fantastic description of C++</item>
+    </string-array>
+
+    <array name="LanguagesImg">
+        <item>@drawable/java</item>
+        <item>@drawable/swift</item>
+        <item>@drawable/csharp</item>
+        <item>@drawable/sql</item>
+        <item>@drawable/js</item>
+        <item>@drawable/jquery</item>
+        <item>@drawable/cplus</item>
+    </array>
+</resources>
